@@ -57,7 +57,7 @@ public class FCA {
 		}
 
 		System.out.println("Enter the Attributes..");
-		for(int i=0; i<numObj; i++){
+		for(int i=0; i<numAttr; i++){
 			tmpS = keyboard.next();
 			attr.add(tmpS);
 		}
